@@ -1,0 +1,7 @@
+[package]
+name = "stackpointer"
+version = "0.1.0"
+authors = ["Shoumik Palkar <shoumik@cs.stanford.edu>"]
+edition = "2018"
+
+[dependencies]
